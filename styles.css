@@ -45,6 +45,15 @@ body {
   display: flex;
 }
 
+.nav-item,
+a:link,
+a:active,
+a:visited,
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+
 .intro-section {
   background-image: url("./images/background.jpeg");
   background-repeat: no-repeat;
